@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<livre>
+    <titre>Mon Livre</titre>
+        <auteurs>
+            <auteur><nom>Dubois</nom><prenom>Cyril</prenom></auteur>
+            <auteur><nom>Durand</nom><prenom>Camille</prenom></auteur>
+    </auteurs>
+
+    <sections>
+
+        <section>
+            <titre>Section 1</titre>
+                <chapitres>
+
+                    <chapitre>
+                        <titre>Chapitre 1</titre>
+                            <paragraphes>
+                                <paragraphe>Premier paragraphe</paragraphe>
+                                <paragraphe>Deuxième paragraphe</paragraphe>
+                            </paragraphes>
+                    </chapitre>
+
+                    <chapitre>
+                        <titre>Chapitre 2</titre>
+                            <paragraphes>
+                                <paragraphe>Premier paragraphe</paragraphe>
+                                <paragraphe>Deuxième paragraphe</paragraphe>
+                            </paragraphes>
+                    </chapitre>
+
+                </chapitres>
+        </section>
+        
+        <section>
+            <titre>Section 2</titre>
+                <chapitres>
+
+                    <chapitre>
+                        <titre>Chapitre 1</titre>
+                            <paragraphes>
+                                <paragraphe>Premier paragraphe</paragraphe>
+                                <paragraphe>Deuxième paragraphe</paragraphe>
+                            </paragraphes>
+                    </chapitre>
+
+                    <chapitre>
+                        <titre>Chapitre 2</titre>
+                            <paragraphes>
+                                <paragraphe>Premier paragraphe</paragraphe>
+                                <paragraphe>Deuxième paragraphe</paragraphe>
+                            </paragraphes>
+                    </chapitre>
+
+                </chapitres>
+        </section>
+
+    </sections>
+    
+</livre>
